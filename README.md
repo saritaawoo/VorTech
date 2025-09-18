@@ -50,6 +50,12 @@ A continuación, presentamos algunos sitios web que sirvieron como fuente de ins
 3. [**Osaka Electronics Ltda.**](https://osakaelectronicsltda.com/)  
    Sitio enfocado en la venta de electrodomésticos y tecnología de consumo. Tiene un enfoque más comercial, pero es útil como inspiración por la forma en que presentan sus productos, promociones y navegación general para el usuario final.
 
+4. [**Ktronik**](https://www.ktronix.com)
+ tienda de tecnología que vende una amplia variedad de productos electrónicos, incluyendo celulares, computadoras, televisores, electrodomésticos, videojuegos y más.
+
+6. [**Tecnoplaza**](https://www.ktronix.com/)
+ es una de las tiendas físicas de Ktronix. Por lo tanto, Tecnoplaza es un punto de venta o una sucursal de Ktronix
+
 *Estos referentes nos ayudan a identificar buenas prácticas de diseño, estructura de productos, experiencia del usuario (UX) y formas de mejorar la confianza del cliente al momento de comprar en línea.*
 
 
