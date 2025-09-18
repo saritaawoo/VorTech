@@ -1,6 +1,6 @@
 # VorTech Tienda de Productos Electrónicos - San Gil
 
-## 🛍️ ¿Quiénes somos?
+## ¿Quiénes somos?
 
 Somos una tienda virtual especializada en productos electrónicos ubicada en el municipio de **San Gil**. Ofrecemos una amplia variedad de dispositivos y accesorios, incluyendo:
 
@@ -11,7 +11,7 @@ Somos una tienda virtual especializada en productos electrónicos ubicada en el 
 
 Nuestra misión es ofrecer productos de calidad a precios competitivos. Para lograrlo, realizamos un análisis constante del mercado local, comparando precios y calidad con otras tiendas del municipio, y adaptando nuestra oferta a las necesidades reales de nuestros clientes.
 
-## 🎯 Público objetivo
+## Público objetivo
 
 Nos dirigimos a:
 
@@ -21,7 +21,7 @@ Nos dirigimos a:
 
 Nos enfocamos en clientes que valoran la **calidad**, el **buen servicio** y la **conveniencia de comprar localmente**.
 
-## 👥 Nuestro equipo
+## Nuestro equipo
 
 Somos un equipo de jóvenes emprendedores, apasionados por la tecnología
 
@@ -31,14 +31,13 @@ Somos un equipo de jóvenes emprendedores, apasionados por la tecnología
 
 Nos complementamos como equipo para ofrecer un servicio confiable, actualizado y centrado en las necesidades de nuestros clientes. Creemos firmemente que la tecnología puede transformar vidas, y queremos ser parte de ese cambio desde nuestro municipio.
 
----
 
-📍 **Ubicación:** San Gil, Colombia  
-📧 **Contáctanos:** [correo@ejemplo.com]  
-📱 **Redes sociales:** *Próximamente*
+**Ubicación:** San Gil, Santander  
+**Contáctanos:** [informacion@vortech.com]  
+**Redes sociales:** *Vortech_SanGil*
 
 
-## 🌐 Sitios de referencia
+## Sitios de referencia
 
 A continuación, presentamos algunos sitios web que sirvieron como fuente de inspiración para el desarrollo de nuestra tienda virtual **VorTech**, teniendo en cuenta su catálogo de productos, público objetivo, diseño visual y funcionalidades implementadas:
 
@@ -51,8 +50,25 @@ A continuación, presentamos algunos sitios web que sirvieron como fuente de ins
 3. [**Osaka Electronics Ltda.**](https://osakaelectronicsltda.com/)  
    Sitio enfocado en la venta de electrodomésticos y tecnología de consumo. Tiene un enfoque más comercial, pero es útil como inspiración por la forma en que presentan sus productos, promociones y navegación general para el usuario final.
 
----
-
 *Estos referentes nos ayudan a identificar buenas prácticas de diseño, estructura de productos, experiencia del usuario (UX) y formas de mejorar la confianza del cliente al momento de comprar en línea.*
 
+
+## Wireframes del sitio web
+
+A continuación se presentan los wireframes (bocetos estructurales) de las principales secciones de nuestra tienda en línea **VorTech**. Estos esquemas nos permiten visualizar la distribución de contenido, navegación y experiencia del usuario antes de desarrollar el sitio.
+
+### 🏠 Home (Inicio)
+![Wireframe Home](./wireframes/home.png)
+
+### 📦 Detalle de Producto
+![Wireframe Detalle de Producto](./wireframes/product-detail.png)
+
+### 🛒 Carrito de Compras
+![Wireframe Carrito](./wireframes/cart.png)
+
+### 📝 Formulario de Registro
+![Wireframe Registro](./wireframes/register.png)
+
+### 🔐 Formulario de Login
+![Wireframe Login](./wireframes/login.png)
 
